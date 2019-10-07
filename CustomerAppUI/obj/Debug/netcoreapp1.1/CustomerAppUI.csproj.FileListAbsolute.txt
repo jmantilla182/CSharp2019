@@ -1,0 +1,15 @@
+/Users/jmantilla/Documents/Projects/DotCourse/CustomerAppUI/bin/Debug/netcoreapp1.1/CustomerAppUI.deps.json
+/Users/jmantilla/Documents/Projects/DotCourse/CustomerAppUI/bin/Debug/netcoreapp1.1/CustomerAppUI.runtimeconfig.json
+/Users/jmantilla/Documents/Projects/DotCourse/CustomerAppUI/bin/Debug/netcoreapp1.1/CustomerAppUI.runtimeconfig.dev.json
+/Users/jmantilla/Documents/Projects/DotCourse/CustomerAppUI/bin/Debug/netcoreapp1.1/CustomerAppUI.dll
+/Users/jmantilla/Documents/Projects/DotCourse/CustomerAppUI/bin/Debug/netcoreapp1.1/CustomerAppUI.pdb
+/Users/jmantilla/Documents/Projects/DotCourse/CustomerAppUI/bin/Debug/netcoreapp1.1/CustomerAppBLL.dll
+/Users/jmantilla/Documents/Projects/DotCourse/CustomerAppUI/bin/Debug/netcoreapp1.1/CustomerAppDAL.dll
+/Users/jmantilla/Documents/Projects/DotCourse/CustomerAppUI/bin/Debug/netcoreapp1.1/CustomerAppBLL.pdb
+/Users/jmantilla/Documents/Projects/DotCourse/CustomerAppUI/bin/Debug/netcoreapp1.1/CustomerAppDAL.pdb
+/Users/jmantilla/Documents/Projects/DotCourse/CustomerAppUI/obj/Debug/netcoreapp1.1/CustomerAppUI.csprojAssemblyReference.cache
+/Users/jmantilla/Documents/Projects/DotCourse/CustomerAppUI/obj/Debug/netcoreapp1.1/CustomerAppUI.AssemblyInfoInputs.cache
+/Users/jmantilla/Documents/Projects/DotCourse/CustomerAppUI/obj/Debug/netcoreapp1.1/CustomerAppUI.AssemblyInfo.cs
+/Users/jmantilla/Documents/Projects/DotCourse/CustomerAppUI/obj/Debug/netcoreapp1.1/CustomerAppUI.csproj.CopyComplete
+/Users/jmantilla/Documents/Projects/DotCourse/CustomerAppUI/obj/Debug/netcoreapp1.1/CustomerAppUI.dll
+/Users/jmantilla/Documents/Projects/DotCourse/CustomerAppUI/obj/Debug/netcoreapp1.1/CustomerAppUI.pdb

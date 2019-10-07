@@ -1,0 +1,11 @@
+/Users/jmantilla/Documents/Projects/DotCourse/CustomerAppBLL/bin/Debug/netcoreapp1.1/CustomerAppBLL.deps.json
+/Users/jmantilla/Documents/Projects/DotCourse/CustomerAppBLL/bin/Debug/netcoreapp1.1/CustomerAppBLL.dll
+/Users/jmantilla/Documents/Projects/DotCourse/CustomerAppBLL/bin/Debug/netcoreapp1.1/CustomerAppBLL.pdb
+/Users/jmantilla/Documents/Projects/DotCourse/CustomerAppBLL/bin/Debug/netcoreapp1.1/CustomerAppDAL.dll
+/Users/jmantilla/Documents/Projects/DotCourse/CustomerAppBLL/bin/Debug/netcoreapp1.1/CustomerAppDAL.pdb
+/Users/jmantilla/Documents/Projects/DotCourse/CustomerAppBLL/obj/Debug/netcoreapp1.1/CustomerAppBLL.csprojAssemblyReference.cache
+/Users/jmantilla/Documents/Projects/DotCourse/CustomerAppBLL/obj/Debug/netcoreapp1.1/CustomerAppBLL.AssemblyInfoInputs.cache
+/Users/jmantilla/Documents/Projects/DotCourse/CustomerAppBLL/obj/Debug/netcoreapp1.1/CustomerAppBLL.AssemblyInfo.cs
+/Users/jmantilla/Documents/Projects/DotCourse/CustomerAppBLL/obj/Debug/netcoreapp1.1/CustomerAppBLL.csproj.CopyComplete
+/Users/jmantilla/Documents/Projects/DotCourse/CustomerAppBLL/obj/Debug/netcoreapp1.1/CustomerAppBLL.dll
+/Users/jmantilla/Documents/Projects/DotCourse/CustomerAppBLL/obj/Debug/netcoreapp1.1/CustomerAppBLL.pdb

@@ -1,0 +1,8 @@
+/Users/jmantilla/Documents/Projects/DotCourse/CustomerAppDAL/bin/Debug/netcoreapp1.1/CustomerAppDAL.deps.json
+/Users/jmantilla/Documents/Projects/DotCourse/CustomerAppDAL/bin/Debug/netcoreapp1.1/CustomerAppDAL.dll
+/Users/jmantilla/Documents/Projects/DotCourse/CustomerAppDAL/bin/Debug/netcoreapp1.1/CustomerAppDAL.pdb
+/Users/jmantilla/Documents/Projects/DotCourse/CustomerAppDAL/obj/Debug/netcoreapp1.1/CustomerAppDAL.csprojAssemblyReference.cache
+/Users/jmantilla/Documents/Projects/DotCourse/CustomerAppDAL/obj/Debug/netcoreapp1.1/CustomerAppDAL.AssemblyInfoInputs.cache
+/Users/jmantilla/Documents/Projects/DotCourse/CustomerAppDAL/obj/Debug/netcoreapp1.1/CustomerAppDAL.AssemblyInfo.cs
+/Users/jmantilla/Documents/Projects/DotCourse/CustomerAppDAL/obj/Debug/netcoreapp1.1/CustomerAppDAL.dll
+/Users/jmantilla/Documents/Projects/DotCourse/CustomerAppDAL/obj/Debug/netcoreapp1.1/CustomerAppDAL.pdb

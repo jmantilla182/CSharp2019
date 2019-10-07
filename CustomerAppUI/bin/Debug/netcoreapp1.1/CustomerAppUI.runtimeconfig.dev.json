@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/jmantilla/.dotnet/store/|arch|/|tfm|",
+      "/Users/jmantilla/.nuget/packages"
+    ]
+  }
+}
